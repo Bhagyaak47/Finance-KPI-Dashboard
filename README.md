@@ -36,7 +36,7 @@ There are 4 Tables in Excel file which we connect through Data modeling Date & m
 - Target Table : What is the target each sales person suppose to meet in a month.
 - Dates : For each month i did analysis.
 - Dimpeople : Little bit more about the team i.e, name of the sales person,Team which they belongs to,their image.
-- 
+
 # Data Cleaning:
 - Use 1st row as header.
 - select 1st column and unpivot other columns.
