@@ -49,13 +49,14 @@ There are 4 Tables in Excel file which we connect through Data modeling Date & m
 ![Finance performance_001](https://github.com/Bhagyaak47/Finance-KPI-Dashboard/assets/152842490/0c8c832d-c3e1-499b-b722-8c88ef601186)
 
 # Insights :
+
 - Overall we met targets 2 months out 14 months.
-- 11 Sales person out of 25 sales person succeded in achieving their target.
-- "Kaine Padly" acheived the highest target by 9.0%.
-- "Marney O'Breen"  acheived the least no. of target & variance % is -11.6%.
-- From Team Yummies 4 sales person achieved the target.
-- From Team Delish & Jucies 3 sales person achieved the target respectively.
-- From Team Tempo 1 sales person achieved the target.
+- 11 Sales person out of 25 sales person succeeded in achieving their target.
+- "Kaine Padly" achieved the highest target by 9.0%.
+- "Marney O'Breen '' achieved the least no. of target & variance % is -11.6%.
+- From Team Yummies 4 sales people achieved the target.
+- Team Delish & Jucies 3 sales person achieved the target respectively.
+- Team Tempo 1 sales person achieved the target.
 
 
 
